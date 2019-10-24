@@ -1,6 +1,7 @@
 # Air Wing Stratigic Doctrine
 
 Author: Skwerel
+
 Western Tactical
 
 ## Introduction
