@@ -17,15 +17,13 @@ The purpose of WTAC Air Wing is:
 
 ### Ops
 
-Air Wing Ops will be held twice a week on Friday and Sunday evenings. Additional ops may be occasionally held as leadership availability permits. These operations will take place from 7:30-10:30PM Server Time (PST/PDT). Depending on leader availability, other operations may be held at other times; monitor @FlightAlert in the WTAC Discord to be notified of these operations.
-
 During operations, when alerts are active we will focus on objective-based play, assisting with the alert as we deem appropriate. When no alert is active, we will focus on training and improvement, either practicing maneuvers or pairing off and dueling.
 
 ### Organzation
 
-During operational play, air crews will be divided up into groups called Sections. A Section will be comprised of 2-3 aircraft (including gunners), depending on operational needs and group size. Ideally, Air-to-Air (A2A) oriented Sections will have 2 aircraft, while Air-to-Ground (A2G) oriented Sections will have 3, although this may change as needed. Sections will be contained in a fireteam in-game, and assigned by the Squadron Leader. Typically, each aircraft in a Section will carry a similar loadout, as they will work in tandem to accomplish tasks. Each Section will have a Lead aircraft, and 1 or 2 Wingmen. The Lead aircraft will determine Section travel speed and patrol routes, and will select targets for the Section.
+During operational play, air crews will be divided up into groups called Elements. An Element will be comprised of 2-3 aircraft (including gunners), depending on operational needs and group size. Ideally, Air-to-Air (A2A) oriented Elements will have 2 aircraft, while Air-to-Ground (A2G) oriented Elements will have 3, although this may change as needed. Elements will be contained in a fireteam in-game, and assigned by the Squadron Leader. Typically, each aircraft in a Section will carry a similar loadout, as they will work in tandem to accomplish tasks. Each Element will have a Lead aircraft, and 1 or 2 Wingmen. The Lead aircraft will determine Element travel speed and patrol routes, and will select targets for the Element.
 
-Two or more Sections will frequently be combined together into a larger group called a Flight. A Flight will contain 4-6 total aircraft. Each Flight will have a Leader, who will serve the same role as a Leader in a Section. The Flight Leader will also coordinate the two sections in various Tactial manuvers, some of which are described in the forthcoming Air Wing Tactical Manual. Additionally, more information about the roles of Leaders and Wingmen will be described in the same Manual.
+Two or more Elements will frequently be combined together into a larger group called a Flight. A Flight will contain 4-6 total aircraft. Each Flight will have a Leader, who will serve the same role as a Leader in a Element. The Flight Leader will also coordinate the two sections in various Tactial manuvers, some of which are described in the forthcoming Air Wing Tactical Manual. Additionally, more information about the roles of Leaders and Wingmen will be described in the same Manual.
 
 ### Communications
 
@@ -49,7 +47,7 @@ These missions are typically undertaken by A2G Aircraft.
 
 #### Scouting
 
-This mission is most frequently used when coordinating with Armor. Sections will be tasked with identifying enemy armor positions and communicating them with the armor lead. Secondarily, the Section will aid their attached armor group in eliminating both air and armor threats. A Section may be embedded with an Armor squad for this purpose. Scouting requires good situational awareness, as well as communication skills. It is highly recommended for scouting Sections to have mics. When fulfilling a Scouting role, inform the requesing commander of any incoming bogeys within 1.5 hexes of the AO.
+This mission is most frequently used when coordinating with Armor. Elements will be tasked with identifying enemy armor positions and communicating them with the armor lead. Secondarily, the Element will aid their attached armor group in eliminating both air and armor threats. An Element may be embedded with an Armor squad for this purpose. Scouting requires good situational awareness, as well as communication skills. It is highly recommended for scouting Elements to have mics. When fulfilling a Scouting role, inform the requesing commander of any incoming bogeys within 1.5 hexes of the AO.
 
 #### Surgical Strike
 
