@@ -21,25 +21,23 @@ During operations, when alerts are active we will focus on objective-based play,
 
 ### Organzation
 
-During operational play, air crews will be divided up into groups called Elements. An Element will be comprised of 2-3 aircraft (including gunners), depending on operational needs and group size. Ideally, Air-to-Air (A2A) oriented Elements will have 2 aircraft, while Air-to-Ground (A2G) oriented Elements will have 3, although this may change as needed. Elements will be contained in a fireteam in-game, and assigned by the Squadron Leader. Typically, each aircraft in a Section will carry a similar loadout, as they will work in tandem to accomplish tasks. Each Element will have a Lead aircraft, and 1 or 2 Wingmen. The Lead aircraft will determine Element travel speed and patrol routes, and will select targets for the Element.
+During operational play, air crews will be divided up into groups called Elements. An Element will be comprised of 2-3 aircraft (including gunners), depending on operational needs and group size. Ideally, Air-to-Air (A2A) oriented Elements will have 2 aircraft, while Air-to-Ground (A2G) oriented Elements will have 3, although this may change as needed. Elements will be contained in a fireteam in-game, and assigned by the Squadron Leader. Typically, each aircraft in an Element will carry a similar loadout, as they will work in tandem to accomplish tasks. Each Element will have a Lead aircraft, and 1 or 2 Wingmen. The Lead aircraft will determine Element travel speed and patrol routes, and will select targets for the Element.
 
-Two or more Elements will frequently be combined together into a larger group called a Flight. A Flight will contain 4-6 total aircraft. Each Flight will have a Leader, who will serve the same role as a Leader in a Element. The Flight Leader will also coordinate the two sections in various Tactial manuvers, some of which are described in the forthcoming Air Wing Tactical Manual. Additionally, more information about the roles of Leaders and Wingmen will be described in the same Manual.
+Two or more Elements will frequently be combined together into a larger group called a Flight. A Flight will contain 4-6 total aircraft. Each Flight will have a Leader, who will serve the same role as a Leader in a Element. The Flight Leader will also coordinate the two elements in various Tactial manuvers, some of which are described in the forthcoming Air Wing Tactical Manual. Additionally, more information about the roles of Leaders and Wingmen will be described in the same Manual.
 
 ### Communications
 
-During operations, if another WTAC squad is online, we may be working with a larger platoon or group. In these instances, we will utilize fireteam chat for communications between members of a section, and squad chat for communication with the entire wing. We will use either discord or platoon chat to communicate with the larger platoon.
+During operations, if another WTAC squad is online, we may be working with a larger platoon or group. In these instances, we will utilize fireteam chat for communications between members of an element, and squad chat for communication with the entire wing. We will use either discord or platoon chat to communicate with the larger platoon.
 
-If we are not working in coordination with a platoon, we will use squads for each section, to best visualize who is in what section. In these instances, Squad chat may be used for inter-section communications.
+If we are not working in coordination with a platoon, we will use squads for each element, to best visualize who is in what element. In these instances, Squad chat may be used for inter-element communications.
 
 The #air-chat channel in discord will be used for all offline communications, including coordinating ops times and schedules, as well as organizing duels, mentorships, and other training scenarios.
 
-Section and Flight leads should utilize Fireteam Waypoints to communicate objectives or any other neccessary waypoint. Squad Waypoints will be utilized for communicating with other squad or platoon leads when coordinating with a platoon.
-
-Section and Flight leads should utilize Fireteam Waypoints to communicate objectives or any other neccessary waypoint. Squad Waypoints will be utilized for communicating with other squad or platoon leads when coordinating with a platoon.
+Element and Flight leads should utilize Fireteam Waypoints to communicate objectives or any other neccessary waypoint. Squad Waypoints will be utilized for communicating with other squad or platoon leads when coordinating with a platoon.
 
 ## Mission Types
 
-During operational flight, the various activities undertaken by WTAC Air Sections can be broken down into several mission types. A flight's component Sections may often be simultainously taking on different Missions.
+During operational flight, the various activities undertaken by WTAC Air Elements can be broken down into several mission types. A flight's component Elements may often be simultainously taking on different Missions.
 
 ### Close Air Support (CAS)
 
@@ -55,9 +53,9 @@ At times, squads we are supporting might request that a particular target be tak
 
 #### Supression
 
-A section may be asked to provide supressive fire on a lane, door, or other location. In this case, the purpose is to distract and disorient the enemy, preventing them from moving. Rocket Pods are especially potent at this role.
+An element may be asked to provide supressive fire on a lane, door, or other location. In this case, the purpose is to distract and disorient the enemy, preventing them from moving. Rocket Pods are especially potent at this role.
 
-Typically, platoon or squad leaders will use either colored smoke or squad waypoints to mark targets for Surgical Strike or Supression missions. If a target is being designated by a Section lead, they should use fireteam waypoints to mark the target (if able).
+Typically, platoon or squad leaders will use either colored smoke or squad waypoints to mark targets for Surgical Strike or Supression missions. If a target is being designated by an Element lead, they should use fireteam waypoints to mark the target (if able).
 
 ### Combat Air Patrol (CAP)
 
