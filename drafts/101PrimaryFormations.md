@@ -39,4 +39,29 @@ When the Wing is ahead of the bearing line, he is "Acute"; when aft, he is "Suck
 "Closure" is the relative rate the Wing is approaching the Lead, and "Opening" is the rate at which the Wing is receding the lead.
 Always correct for **A**ltitude, **B**earing, then **C**losure/Closeness (the **A**-**B**-**C**'s of formation).
 
+## Cruise Formation
+Combat Cruise is a fluid position that can be flown on either side of Lead without directed crossunders, and allows Lead maximum flexibility to maneuver the section as required. 
+It is commonly used enroute or in CAS runs.
+Cruise provides maneuverability, reduces wingman load, and provides good lookout capabilities.
+
+### Position
+The cruise position is defined as a 60 degree cone between Lead's left and right 60 degree bearing lines, with approx 20m step down and 3 to 6 plane widths between aircraft.
+Leads should avoid using verticle thrust to increase speed in cruise; Wings may use verticle thrust in combination with pitch to adjust fore/aft position.
+During turns, Wing may vary position anywhere within the rear cone, but should strive to remain on the 60 Degree bearing line when possible.
+In a turn, Wing can also use Pursuit Curves to maintain separation.
+Use Lead Pursuit (pointing his nose ahead of Lead's) to decrease separation, or Lag Pursuit (pointing his nose behind Lead's) to increase separation.
+Pursuit curves typically will only need to be held for a few seconds to adjust separation.
+A turn TOWARDS the Wing will require the wing to increase separation; turns AWAY from the wing require the wing to decrease separation.
+
+### Lead Change
+If a lead change is necessary, the Lead aircraft will initiat the change by increasing lateral separation, then descending and reducing airspeed. The Lead will allow the Wing to pass over, and then ascend into the correct position.
+ 
+![Combat Cruise][cruise]
+
+### Combat Spread
+
+
+
 **WORK IN PROGRESS**
+
+[cruise]: /images/Cruise.png
