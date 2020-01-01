@@ -52,15 +52,26 @@ In all attack patterns
 - DO NOT HOVER. You should be moving at ALL times.
 
 #### Racetrack
+![Racetrack Attack Pattern][Racetrack]
+
 Fly in a rough Oval pattern.
 Turn into the Attack Vector and dump your magazine
 Immediately after dumping your magazine, turn AWAY from the attack vector and reload.
 Continue outbound until you see the attack vector is free.
 
 #### Clover
+![Clover Attack Pattern][Clover]
+
 This is a variant of Racetrack, except that your pattern around the target should look roughly like a Clover, attacking from different angles on each pass.
 Multiple simultanious attack angles are possible with this approach, and more fighters can operate in the Pattern.
 
+
 #### L
+![L Attack Pattern][L]
+
 This is used for single-passes with quick egress under heavy fire.
 Make your attack run, then egress to the Rally point
+
+[L]: /images/L.PNG
+[Racetrack]: /images/Racetrack.PNG
+[Clover]: /images/clover.PNG
