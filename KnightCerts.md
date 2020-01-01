@@ -11,13 +11,11 @@ It is assumed that you aren't buying any upgrades with DBC. If you do decide to 
 - Nosegun (Rotary or Default) Ammo Capacity - Rank 4
 - Fire Supression Rank 2 (preferably)
 - Stealth Rank 1
-- Hover Airframe Rank 2 (For a Scythe, racer is also a good option here)
-- Hover Rank 3 OR Afterburner Tank of your choice (I prefer quick recharge)
-- Any extra from fist 1500 should go to more Nosegun ammo, stealth, or fire supression.
+- Hover Airframe Rank 3 (For a Scythe, racer is also a good option here)
+- Any extra from first 1500 should go to more Nosegun ammo, stealth, or fire supression.
 
 ### Next 3000 Certs
 - Fire Supression Max
-- Hover Frame Max
 - Nosegun Ammo Capacity - Rank 6
 - Nosegun Mag Size - Rank 2
 
@@ -25,9 +23,7 @@ IF YOU HAVE HORNETS OR LOLPODS
 - Thermals
 - Ammo Capacity Rank 2
 
-IF YOU DON'T HAVE HORNETS OR LOLPODS
-- Afterburner Tanks (preferably quick recharge), if you haven't already bought it
-
+THEN
 - Engie Tool Rank 3
 - Engie Passive (Aircraft Synergy) Rank 1
 - Stealth Max
