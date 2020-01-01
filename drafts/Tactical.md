@@ -112,7 +112,7 @@ other.
 - **Holding Hands:** Aircraft in visual formation.
 - **Home Plate:** Home airpad (for respawn/resupply)
 - **Hook (Left/Right):** Directive to perform an in-place 180° turn without changing altitude
-- **Hot:** Attack geometry will result in roll out in front of the target; or on a leg of the CAP pointing toward the anticipated threats (air-to-air). 
+- **Hot:** Attack geometry will result in roll out in front of the target; or on a leg of the CAP pointing toward the anticipated threats (air-to-air).
 - **ID:** Directive to intercept and identify the target; also aircrew ID accomplished, followed by type aircraft.
 - **In Place (Left/Right):** Perform indicated maneuver simultaneously.
 - **Jink:** Unpredictable maneuvers to negate a tracking solution.
