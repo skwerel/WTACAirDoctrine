@@ -24,7 +24,6 @@ IF YOU HAVE HORNETS OR LOLPODS
 - Ammo Capacity Rank 2
 
 ### THEN
->>>>>>> master
 - Engie Tool Rank 3
 - Engie Passive (Aircraft Synergy) Rank 1
 - Stealth Max
